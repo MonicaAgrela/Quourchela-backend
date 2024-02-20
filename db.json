@@ -162,7 +162,7 @@
       "id": 7,
       "type":"vegetables",
       "name": "Vegan Shakshuka",
-      "cuisine": "Italy",
+      "cuisine": "Italian",
       "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/vegan-shakshuka-676589.jpg",
       "ingredients": [
         "28 ozs pointed cabbage 7 ozs kale 1 red onion 2 garlic cloves 9 oz brown rice salt 3 tbsps olive oil 14 ozs chunky tomatoes (canned) 2 tsps ground paprika 3 tsps harissa peppers 3 ozs pumpkin pure e1 tsp cornstarch 8 ozs silken tof 2 marjoram 1 tsp sumac 1 tsp sesame seeds (black and white)"
@@ -213,7 +213,7 @@
       "id": 10,
       "type":"vegetables",
       "name": "Pumpkin with Porcini Mushrooms and Garlic",
-      "cuisine": "Mexico",
+      "cuisine": "Mexican",
       "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/pumpkin-with-porcini-mushrooms-and-garlic-515198.jpg",
       "ingredients": [
         "36 ozs pumpkin 2 tbsps canola oil  salt 7 ozs porcini mushroom  1  garlic clove For garnish  chopped parsley  parsley fresh, green peppers (or from a jar)"
@@ -259,7 +259,7 @@
       "id": 12,
       "type":"meet",
       "name": "Chicken Caesar Salad",
-      "cuisine": "america",
+      "cuisine": "American",
       "image": "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
       "ingredients": [
         "2 boneless, skinless chicken breasts",
@@ -337,7 +337,7 @@
       "id": 15,
       "type":"meet",
       "name": "hamburguer",
-      "cuisine": "german",
+      "cuisine": "German",
       "image": "https://pubimg.band.uol.com.br/files/cb1fe227a30b77daa9cb.webp",
       "ingredients": [
         "1 ½ pounds lean ground beef",
@@ -730,7 +730,7 @@
       "id": 26,
       "type": "pasta",
       "name": "Beef and Veggie Pasta with goat cheese",
-      "cuisine": "Italy",
+      "cuisine": "Italian",
       "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/beef-and-veggie-pasta-666961.jpg",
       "ingredients": [
         "½ lb whole grain pasta",
