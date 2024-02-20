@@ -1,0 +1,871 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "type": "pasta",
+      "name": "Spaghetti Bolognese",
+      "cuisine": "Italian",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg",
+      "ingredients": [
+        "400g ground beef",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 can (400g) crushed tomatoes",
+        "2 tablespoons tomato paste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and pepper to taste",
+        "300g spaghetti",
+        "Grated Parmesan cheese for serving"
+      ],
+      "instructions": [
+        "In a large pan, brown the ground beef over medium heat.",
+        "Add the diced onion and minced garlic, cook until onion is softened.",
+        "Stir in crushed tomatoes, tomato paste, oregano, basil, salt, and pepper.",
+        "Simmer for 20-30 minutes, stirring occasionally.",
+        "Meanwhile, cook spaghetti according to package instructions.",
+        "Serve the Bolognese sauce over cooked spaghetti and top with Parmesan cheese."
+      ]
+    },
+    {
+      "id": 2,
+      "type": "fish",
+      "name": "Bacalhau à moda de Braga",
+      "cuisine": "Portuguese",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1c/38/db/b4/bacalhau-a-braga.jpg",
+      "ingredients": [
+        "4 soaked cod fillets (1000 g approx.)",
+        "100 g olive oil, more to taste for frying",
+        "4 cloves of garlic",
+        "20 g paprika",
+        "30 g parsley, more to taste chopped for sprinkling",
+        "400 g onion cut into slices",
+        "2 bay leaves",
+        "1 pinch of salt",
+        "40 g vinegar",
+        "80 g red pepper cut into strips",
+        "French fries"
+      ],
+      "instructions": [
+        "Cook the cod, when the water boils, turn off the heat and leave the cod in the water for 5 minutes.",
+        "Remove and dry it with kitchen paper. Heat a frying pan with plenty of olive oil, bay leaves and two cloves of garlic.",
+        "When it is hot, add the cod and let it fry. Remove to serving container and set aside in the oven to keep warm.",
+        "Meanwhile, prepare the onion, cut the onions and garlic into slices and place in the frying pan where you fried the cod (remove the garlic and bay leaves).",
+        "Add the pepper strips and the tomato pieces.",
+        "Season with salt and pepper, add the vinegar and cook until the onion is cooked.",
+        "Fry the potatoes in thick slices and place them around the cod.",
+        "Cover with onion and serve with a mixed salad."
+      ]
+    },
+    {
+      "id": 3,
+      "type": "fish",
+      "name": "Polvo à Lagareiro",
+      "cuisine": "Portuguese",
+      "image": "https://ruralea.com/wp-content/uploads/2022/12/15027813_635231179991786_2204416715802901996_n-min.jpg",
+      "ingredients": [
+        "1 octopus (1.5-2kg)",
+        "1 drizzle of olive oil",
+        "1 onion",
+        "2 bay leaves",
+        "12 new potatoes for baking",
+        "Peppercorns q.s.",
+        "5 cloves of garlic",
+        "Olive oil q.s.",
+        "Salt q.s.",
+        "Coriander q.s."
+      ],
+      "instructions": [
+        " Turn on the oven at 200ºC.",
+        "Lace the octopus on an oven tray, with a good drizzle of olive oil on the base.",
+        " Cut the onion into 4 wedges and add to the octopus.",
+        " Add a few grains of black pepper, bay leaves, and more olive oil on top.",
+        " Place in the preheated oven, covered with aluminum foil, for 1h30.",
+        " When the octopus is ready for half an hour, place the washed and drained potatoes on a tray and sprinkle generously with salt.",
+        " Place the potatoes in the oven for 30 minutes.",
+        " Check that the octopus is tender with a fork.",
+        " Remove the octopus and potatoes from the oven.",
+        "Shake off the excess salt from the potatoes, punch them and return to the tray.",
+        " Cut the octopus, using only the tentacles, and place on the potatoes.",
+        "Slice the garlic cloves and fry for 2 minutes in 200ml of olive oil.",
+        " Pour the olive oil and garlic over the octopus and potatoes.",
+        " Place in the oven for 10 minutes, at 250ºC, grill mode, to toast well."
+      ]
+    },
+    {
+      "id": 4,
+      "type": "fish",
+      "name": "Zucchini Pancakes with Shrimp",
+      "cuisine": "Asian",
+      "image": "https://static1.squarespace.com/static/55be995de4b071c106b3b4c0/56bffce6f85082335f65792d/5ec6b301b10cc30d341c3470/1623866078305/Shrimp+and+Zucchini+Korean+Pancake-12.jpg?format=1500w",
+      "ingredients": [
+        "1 zucchini sliced into thin ribbons",
+        "4 green onions",
+        "2 tbsp canola oil",
+        "½ tsp salt, divided",
+        "8 large shrimp, peeled and deveined",
+        "1 tsp fish sauce",
+        "½ tsp sesame oil",
+        "1/3 cup all purpose flour",
+        "2 tbsp cornstarch",
+        "½ cup water",
+        "1 egg",
+        "Soy sauce for serving"
+      ],
+      "instructions": [
+        "Slice the zucchini into thin ribbons using a Y vegetable peeler or a mandoline slicer and set aside. Cut the green onions into 5” long pieces and set aside.",
+        "Heat canola oil in a large nonstick pan over medium high heat. Once the oil is hot add the zucchini. Season with ¼ tsp of salt and toss the zucchini. Continue to cook for 5 minutes, until the zucchini is tender. Add the green onions and the shrimp to the pan. Season with ¼ tsp salt, fish sauce, and sesame oil. Toss to combine and continue to cook for another 2 minutes. Arrange the shrimp and veggies in the pan so that they are evenly dispersed.",
+        "In a small bowl, combine flour, cornstarch, and water. Whisk until smooth. Pour the batter over the ingredients in the pan. Whisk the egg in a small bowl and then drizzle the egg over the batter.",
+        "Allow the pancake to cook for 5 minutes, until the bottom is golden brown and the edges are somewhat firm. Place a large plate over the pancake in the pan. Keep a firm grip and then flip the pan over and allow the pancake to lay on the plate. Slide the pancake back into the pan and allow to cook for another 3 minutes, until golden brown and the egg and batter is set.",
+        "Place the pancake on a clean plate and cut into 2” squares. Enjoy with soy sauce for dipping."
+      ]
+    },
+    {
+      "id": 5,
+      "type": "fish",
+      "name": "Rolled Crepes with Smoked Salmon and Cream Cheese",
+      "cuisine": "German",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/rolled-crepes-with-smoked-salmon-and-cream-cheese-527434.jpg",
+      "ingredients": [
+        "7 ozs  milk  3 ½ ozs pastry flour salt  2 eggs 1 tbsp  canola oil  ½ bunch  chives 4 stalks parsley  6 ozs  cream cheese 3 ozs greek yogurt 1 splash lemon juice 1 tsp horseradish (jarred) peppers 7 ozs smoked salmon (slices)"
+      ],
+      "instructions": [
+        "1. In a bowl, stir the flour into 6.6 ounces of the milk and 1 pinch of salt until smooth. Mix in the eggs, cover and let stand 15 minutes. 2.  Heat the canola oil in a skillet over medium-low heat. Ladle 1/4 of the batter into the pan, swirling the pan to coat the bottom with batter and cook until golden brown on both sides. Repeat with the remaining batter to make 4 crepes. Remove and drain on paper towels.  3.  Rinse the herbs, shake dry and set a little aside for garnish and chop the rest.   4. In a bowl, mix together the cream cheese, yogurt, the remaining milk, 1 dash of lemon juice and horseradish and season with pepper. Stir in the chives and parsley. 5.  Top the crepes with the salmon and spread the cream over. Roll up and refrigerate at least 30 minutes.  6. Slice the crêpes, secure with toothpicks and if desired, garnish with parsley."
+      ]
+    },
+    {
+      "id": 6,
+      "type": "fish",
+      "name": "Sardines with chermoula sauce",
+      "cuisine": "Moroccan",
+      "image": "https://www.outbackbarbecues.com/wp-content/uploads/2022/02/Sardines_with_Chermoula.jpg",
+      "ingredients": [
+        "8 whole sardines, gutted",
+        "2 tbsp olive oil",
+        "For the chermoula sauce",
+        "1 large pack coriander",
+        "1 small pack parsley",
+        "2 garlic cloves",
+        "1 preserved lemon, skin only",
+        "1 tsp ground cumin",
+        "½ tsp smoked paprika",
+        "¼ tsp chilli flakes",
+        "75ml extra virgin olive oil"
+      ],
+      "instructions": [
+        "Blitz all the ingredients for the chermoula sauce in a food processor (or finely chop) with a generous pinch of seasoning, then set aside. Will keep in an airtight container in the fridge for up to three days.",
+        "Heat the barbecue for direct cooking. Rub the oil over the sardines and season well. Thread each fish from head to tail onto a skewer, making a few slashes with a knife to each if you like.",
+        "Cook the sardines over the glowing coals for 2-3 mins each side until cooked through and nicely charred. Drizzle over the chermoula sauce to serve."
+      ]
+    },
+    {
+      "id": 7,
+      "type":"vegetables",
+      "name": "Vegan Shakshuka",
+      "cuisine": "Italy",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/vegan-shakshuka-676589.jpg",
+      "ingredients": [
+        "28 ozs pointed cabbage 7 ozs kale 1 red onion 2 garlic cloves 9 oz brown rice salt 3 tbsps olive oil 14 ozs chunky tomatoes (canned) 2 tsps ground paprika 3 tsps harissa peppers 3 ozs pumpkin pure e1 tsp cornstarch 8 ozs silken tof 2 marjoram 1 tsp sumac 1 tsp sesame seeds (black and white)"
+      ],
+      "instructions": [
+        "1. Clean and wash the pointed and green cabbage, pluck the green from the ribs of the kale. Cut the pointed cabbage and kale into strips. Peel and chop the onion and garlic. 2. Bring rice to a boil with twice the amount of salted water, cover and cook over low heat for 25-30 minutes. Remove from heat, loosen and let swell for 5 minutes. 3. Meanwhile, in a deep frying pan, heat 2 tablespoons of oil. Add onion and garlic and sauté over medium heat for 3 minutes until translucent. Add pointed cabbage and kale and sauté for 3-5 minutes until golden brown. Deglaze with a little water, add tomatoes and let reduce for about 10 minutes; then season with paprika, harissa, salt and pepper. 4. Meanwhile, mix pumpkin puree with remaining oil, 1/2 tsp cornstarch, 1-2 tbsp water and 1 pinch salt. Mix tofu with remaining starch and salt. Form 4 wells in pan vegetables, place tofu cream in them and center pumpkin cream on top. Cover pan and let shakshuka set over low heat for about 10 minutes. Wash marjoram, shake dry, pluck into small pieces. Sprinkle vegan shakshuka with marjoram, sumac and sesame seeds and serve with rice."
+      ]
+    },
+    {
+      "id": 8,
+      "type":"vegetables",
+      "name": "Vegetable Curry",
+      "cuisine": "Indian",
+      "image": "https://img.taste.com.au/kUVCKnrN/taste/2016/11/indian-style-vegetable-curry-59371-1.jpeg",
+      "ingredients": [
+        "2 cups mixed vegetables (potatoes, carrots, peas)",
+        "1 onion, finely chopped",
+        "2 tomatoes, chopped",
+        "3 tablespoons curry powder",
+        "1 teaspoon cumin",
+        "1 teaspoon turmeric",
+        "1 teaspoon garam masala",
+        "1 can (400ml) coconut milk",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a pot, sauté onions until golden brown.",
+        "Add tomatoes and cook until soft.",
+        "Add curry powder, cumin, turmeric, and garam masala. Stir well.",
+        "Add mixed vegetables and coconut milk. Simmer until vegetables are tender.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 9,
+      "type":"vegetables",
+      "name": "Baked Sweet Potatoes with Feta Cheese",
+      "cuisine": "French",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/baked-sweet-potatoes-with-feta-cheese-675701.jpg",
+      "ingredients": [
+        "36 ozs sweet potato  4 garlic cloves  3  chili peppers  7 ozs  sheep cheese  2 tbsps  olive oil  1 tbsp  honey  2 tbsps  pumpkin seed 2 tbsps  sunflower seed 1 tbsp  sesame seeds coarse sea salt"
+      ],
+      "instructions": [
+        "1.  Peel sweet potatoes, wash and cut into finger-thick sticks. Peel garlic cloves and cut into slices.  2.  Halve chili peppers lengthwise, remove seeds, wash and chop or cut into rings. Cut feta cheese into cubes and mix with sweet potatoes, garlic, chili, olive oil, and honey. Spread on a baking tray lined with baking paper and cook in a preheated oven at 180 °C / 350 ˚F for about 20-25 minutes. 3.  Meanwhile, toast pumpkin and sunflower seeds and sesame seeds in a pan without fat over medium heat. Remove sweet potatoes from oven, arrange on plates and sprinkle with sea salt, seeds and sesame seeds."
+      ]
+    },
+    {
+      "id": 10,
+      "type":"vegetables",
+      "name": "Pumpkin with Porcini Mushrooms and Garlic",
+      "cuisine": "Mexico",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/pumpkin-with-porcini-mushrooms-and-garlic-515198.jpg",
+      "ingredients": [
+        "36 ozs pumpkin 2 tbsps canola oil  salt 7 ozs porcini mushroom  1  garlic clove For garnish  chopped parsley  parsley fresh, green peppers (or from a jar)"
+      ],
+      "instructions": [
+        "1.  Cut the pumpkin flesh into pieces. Cook in a frying pan (preferably coated) in hot oil for about 5 minutes until lightly brown. Season with salt and pour in a little water. Cover and cook about 5 minutes, until tender. Remove the lid again and let the liquid completely evaporate. Clean the mushrooms and cut into bite-size pieces. Peel garlic and cut into slices. Put the mushrooms and garlic in with the pumpkin and cook until golden brown, about 5 minutes. Season with salt and place in a bowl.  2. Serve garnished with parsley and green pepper."
+      ]
+    },
+    {
+      "id": 11,
+      "type":"vegetables",
+      "name": "Cabbage stir fry",
+      "cuisine": "Indian",
+      "image": "https://www.wellplated.com/wp-content/uploads/2020/07/Cabbage-Stir-Fry-Chicken.jpg",
+      "ingredients": [
+        "Round Cabbage - finely shredded",
+        "1/2 tsp black mustard seeds",
+        "1/2 tsp cumin seed (optional)",
+        "1/2 tsp turmeric powder",
+        "1 medium brown onion - finely sliced",
+        "(Can use shallot or both)",
+        "1 sprig curry leaves (or more)",
+        "1 red/green chili - thinly sliced",
+        "(or use dried chillies, seeds removed)",
+        "4 tbsp water",
+        "🧂 Seasoning",
+        "1 tsp (or as needed) salt or chicken seasoning powder",
+        "🥕 🥕🥕 Use either one or both 👇🏻👇🏻",
+        "1/3 C thinly julienned carrot - we use only carrot",
+        "1/3 C green peas (optional)",
+        "Note:",
+        "1 . Cut round cabbage into four parts. Remove the core. Use only a quarter from these cut portions. Use more if desired. Shred thinly.",
+        "2 . For variations : Add 1/4 c of thinly julienned carrot or 1/4 c of grated coconut or green peas.",
+        "3 . Few dried chilies can also be used to substitute fresh chilies. Cut dried chilies in half and remove seeds.",
+        "4 . Garam masala can be added to this dish."
+      ],
+      "instructions": [
+        "Prepare all ingredients. Heat 2 -3 tbsp of oil in a pan. Add mustard seeds, cumin seeds and curry leaves to hot oil. Let them start to pop then stir in onions, fresh or dried chillies, turmeric powder and garam masala (if using). Sauté until aromatic.",
+        "Stir in cabbage and julienned carrot. Add 4 tbsp of water. Stir few times to combine. Next, Season, taste and adjust seasonings accordingly. Mix well. Cook over medium heat until cabbage is cooked to your desired doneness but preferably not over cooked. Add pinch of Hing or Asafoetida powder. Stir again then remove from the heat and serve with roti, naan/flat bread or rice. Check out other cabbage recipes."
+      ]
+    },
+    {
+      "id": 12,
+      "type":"meet",
+      "name": "Chicken Caesar Salad",
+      "cuisine": "america",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "Salt and pepper to taste",
+        "1 tablespoon olive oil",
+        "1 head romaine lettuce, chopped",
+        "1 cup croutons",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 cup Caesar dressing"
+      ],
+      "instructions": [
+        "Season chicken breasts with salt and pepper.",
+        "Heat olive oil in a pan over medium-high heat.",
+        "Cook chicken breasts until no longer pink in the center, about 6-8 minutes per side.",
+        "Slice the cooked chicken into thin strips.",
+        "In a large bowl, combine chopped romaine lettuce, croutons, Parmesan cheese, and sliced chicken.",
+        "Drizzle Caesar dressing over the salad and toss to combine."
+      ]
+    },
+    {
+      "id": 13,
+      "type":"meet",
+      "name": "Chicken Stir-Fry",
+      "cuisine": "Asian",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2016/03/Quick-Chicken-Stir-Fry-square-FS.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts, sliced",
+        "2 cups broccoli florets",
+        "1 bell pepper, sliced",
+        "1 carrot, julienned",
+        "3 tablespoons soy sauce",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon sesame oil",
+        "1 tablespoon cornstarch",
+        "2 cloves garlic, minced",
+        "1 teaspoon grated ginger",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch.",
+        "Stir-fry chicken in a wok or pan until cooked through.",
+        "Add garlic and ginger, then add vegetables and stir-fry until tender-crisp.",
+        "Pour the sauce over the chicken and vegetables, stir until well coated.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 14,
+      "type":"meet",
+      "name": "Sweet and Sour Chicken",
+      "cuisine": "Chinese",
+      "image": "https://www.bowlofdelicious.com/wp-content/uploads/2020/06/sweet-and-sour-chicken-square.jpg",
+      "ingredients": [
+        "500g boneless, skinless chicken thighs, cut into bite-sized pieces",
+        "1 cup pineapple chunks",
+        "1 bell pepper, diced",
+        "1 onion, sliced",
+        "2 tablespoons soy sauce",
+        "3 tablespoons rice vinegar",
+        "3 tablespoons ketchup",
+        "2 tablespoons brown sugar",
+        "1 tablespoon cornstarch",
+        "1 teaspoon grated ginger",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, rice vinegar, ketchup, brown sugar, and cornstarch.",
+        "Heat oil in a pan, add chicken and cook until browned.",
+        "Add ginger, bell pepper, and onion. Cook until vegetables are tender.",
+        "Pour the sauce over the chicken and vegetables, add pineapple chunks, and stir until the sauce thickens.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 15,
+      "type":"meet",
+      "name": "hamburguer",
+      "cuisine": "german",
+      "image": "https://pubimg.band.uol.com.br/files/cb1fe227a30b77daa9cb.webp",
+      "ingredients": [
+        "1 ½ pounds lean ground beef",
+        "½ onion, finely chopped",
+        "½ cup shredded Colby Jack or Cheddar cheese",
+        "1 egg",
+        "1 (1 ounce) envelope dry onion soup mix",
+        "1 clove garlic, minced",
+        "1 tablespoon garlic powder",
+        "1 teaspoon soy sauce",
+        "1 teaspoon Worcestershire sauce",
+        "1 teaspoon dried parsley",
+        "1 teaspoon dried basil",
+        "1 teaspoon dried oregano",
+        "½ teaspoon crushed dried rosemary",
+        "salt and pepper to taste"
+      ],
+      "instructions": [
+        "Preheat an outdoor grill for high heat and lightly oil the grate.",
+        "Meanwhile, combine ground beef, onion, cheese, egg, onion soup mix, minced garlic, garlic powder, soy sauce, Worcestershire sauce, parsley, basil, oregano, rosemary, salt, and pepper in a large bowl. Use your hands to form the mixture into 4 patties.",
+        "Cook patties on the preheated grill until no longer pink in the center and the juices run clear, about 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+      ]
+    },
+    {
+      "id": 16,
+      "type":"meet",
+      "name": "Arabian Chicken Mandi",
+      "cuisine": "Arabian",
+      "image": "https://images.aws.nestle.recipes/resized/10c05681081b47950fe2f90e73968e7d_Chicken-Mandi_944_531.jpg",
+      "ingredients": [
+        "500 grams Chicken , with bones",
+        "1 Onion , finely chopped",
+        "1 Tomato",
+        "3 Green Chillies",
+        "1 tablespoon Ginger Garlic Paste",
+        "3 Bay leaves (tej patta)",
+        "1 teaspoon Ghee",
+        "2 Cardamom (Elaichi) Pods/Seeds",
+        "2 Cloves (Laung)",
+        "2 inch Cinnamon Stick (Dalchini)",
+        "1 teaspoon Whole Black Peppercorns",
+        "2 tablespoons Extra Virgin Olive Oil",
+        "2 tablespoons Butter (Salted) , softened",
+        "Salt , to taste",
+        "2 cups Basmati rice",
+        "4 cups Water",
+        "For mandi spice powder",
+        "1 tablespoon Cardamom (Elaichi) Pods/Seeds",
+        "1 tablespoon Cloves (Laung)",
+        "1/2 tablespoon Whole Black Peppercorns",
+        "1/2 teaspoon Nutmeg powder",
+        "1/2 tablespoon Dry ginger powder",
+        "2 Bay leaves (tej patta)"
+      ],
+      "instructions": [
+        "To begin making the Arabian Chicken Mandi recipe, firstly we will prepare the Mandi spice powder.",
+        "For mandi spice powder",
+        "To make the Mandi spice powder, dry roast the cardamom pods, cloves, black pepper, nutmeg dry ginger powder and bay leaves in a on on medium heat for 4-6 minutes.",
+        "Turn off the heat, and allow it to cool. ",
+        "Transfer the spices in a mixer jar, and grind into a fine powder using a mixer grinder.",
+        "For the Chicken",
+        "Heat a large saucepan on medium heat and add oil.",
+        "Once the oil is hot, add finely chopped onion and sauté till translucent . This will take about 2-3 minutes.",
+        "To the softened onions,  add the ginger paste and garlic paste and sauté till the raw smell goes away. ",
+        "Next, add bay leaves, cinnamon, cardamom, cloves and black pepper and mix everything well.",
+        "In a mixer jar combine, tomato and green chillies and grind into a puree and add it to the pan.",
+        "When the oil starts to separate, add the chicken and mix. Add 4 cups of water and the Mandi spice powder according to your taste.   Mix, cover and let it cook for about 15 minutes. After 15 minutes, turn off the heat.",
+        "We will furthermore bake the chicken, to get a crispy skin. ",
+        "In a small mixing bowl, add soft butter and Mandi spice powder and some salt, mix well and keep aside.",
+        "Preheat the oven to 200 degrees centigrade. Remove the chicken from the stock and place it  onto a baking tray and brush with butter and mandi spice powder mixture.",
+        "Bake for 20 to 25 minutes or until the skin of the chicken turns to a nice golden brown colour.",
+        "For the rice",
+        "Wash and soak basmati rice for at least 20 minutes.",
+        "Heat olive oil in a large pan on medium heat, and fry the drained rice, stirring continuously for about 10 to 15 minutes. ",
+        "Add this pan roasted rice to the chicken stock. Now slide a large piece of aluminium foil on top of the saucepan and then cover it with the lid. Cook the rice on medium low flame for about 10 minutes.",
+        "Remove the lid and check if there is any trace of water left. If water is left, then cover and cook for another 3 to 5 minutes. Now fluff the rice with a fork .",
+        "Take ghee in a small bowl and place it in the middle of the rice.",
+        "Heat a piece of charcoal on direct flame until it is sred hot, this will take about 5 minutes.",
+        "Once the charcoal is burning hot, place it in the bowl of ghee that is in the rice. Immediately slide back the aluminium foil and secure with lid.",
+        "Open it only at the time of serving, as it gives a nice smokey flavor to the rice. To serve, spread rice onto a large serving tray and place a piece of baked chicken on the top.",
+        "Serve Arabian Chicken Mandi with Raw Mango raita and Pickled onions for a delicious weeknight dinner."
+      ]
+    },
+    {
+      "id": 17,
+      "type":"meet",
+      "name": "Chicken Tajine",
+      "cuisine": "Moroccan",
+      "image": "https://thedomesticatedman.files.wordpress.com/2019/06/img_9587.jpg",
+      "ingredients": [
+        "Bone-in skin-on chicken thighs",
+        "Ras el hanout(cumin, ginger,  all spice, cinnamon, coriander,clove)",
+        "Cinnamon stick",
+        "Dried apricots",
+        "Chickpeas",
+        "Garlic and onion",
+        "Canned Tomato",
+        "Chicken stock/broth",
+        "Coriander/Cilantro",
+        "Preserved lemon"
+      ],
+      "instructions": [
+        "Plump up apricots – Cover the dried apricots with boiling water then leave for 30 minutes to plump up.",
+        "Brown chicken – Season the chicken with salt and pepper and brown the skin really well in a pan. This takes a good 8 to 10 minutes. Don’t shortcut this step! The browned skin adds a stack of flavour to the chicken, plus it leaves behind golden bits stuck on the pan (called “fond”) which imparts valuable flavour to the sauce.",
+        "Once the skin side is nicely browned, sear the other side for just 1 minute then remove. The chicken won’t be cooked through at this stage. We will finish cooking it in the sauce.",
+        "Sauté aromatics and spices – Sauté the onion and garlic, then cook off the spices briefly. Sautéing spices before adding liquids is a good tip for releasing more flavour from the spices. It certainly does for tagines!",
+        "Tagine sauce – Add the chickpeas, apricot, tomato, preserved lemon, stock and cinnamon stick. Stir, then bring it to a simmer.",
+        "Top with chicken – Just place the chicken on top, skin side up. It will be partially submerged but the flesh should mostly be under the liquid while the skin mostly sits above the liquid which is exactly what you want as this way, the browning on the skin is mostly preserves during the braising.",
+        "Simmer covered 5 minutes – Adjust the heat as needed so it’s simmering gently. Not too rapidly else the base of the pot will scorch.",
+        "Simmer uncovered 20 minutes – Remove the lid then simmer uncovered for 20 minutes, or until the internal temperature of the chicken is 70°C/158°F (which may be slightly less than 20 minutes). Don’t worry about going above this temperature as bone-in chicken thighs are a very juicy cut so they’re very forgiving.",
+        "Serving! Tagine is traditionally served over couscous. I’ve popped a little more information below with some couscous flavouring options as well as some alternatives for other carb-y partners."
+      ]
+    },
+    {
+      "id": 18,
+      "type":"meet",
+      "name": "Francesinha",
+      "cuisine": "Portuguese",
+      "image": "https://catracalivre.com.br/wp-content/uploads/sites/11/2017/04/francesinha.jpg",
+      "ingredients": [
+        "loaf bread 6 slices",
+        "cheese 8 slices",
+        "2 small beef steaks",
+        "2 fresh sausage",
+        "2 sausages",
+        "2 slices of ham",
+        "salt and pepper q.b.",
+        "For the sauce:",
+        "1 onion",
+        "400ml beer2",
+        "3 spoons (soup) tomato paste",
+        "50ml brandy",
+        "50ml port wine",
+        "1 tablespoon (soup) of Margarine",
+        "1 tablespoon (soup) of cornstarch flour",
+        "1 cube of broth",
+        "1 sheet of bay leaf",
+        "milk q.b.",
+        "salt and spicy q.b"
+      ],
+      "instructions": [
+        "To start this recipe, prepare the sauce: peel the onion, roughly chop it, add it to a pan, add the margarine and bay leaves, heat and cook until golden. Add the tomato paste, beef broth and beer and bring to a boil. Dissolve the cornstarch flour in a little milk and add it to the pan, in a stream and stirring constantly. Adjust the salt, season with spices, stir, add the brandy and Port Wine and bring to a boil. Pass through a mesh sieve and return to a low heat to heat.",
+        "Cut the sausages in half, then in half lengthwise again and season them with salt and pepper. Also cut the sausages in the same way. Season the steaks equally with salt and pepper. Grill steaks, sausages and sausages to taste.",
+        "Lightly toast the bread slices and distribute two slices on two plates. Cover with a slice of ham, then add the steak and add another slice of bread. Then add the sausage and sausage, cover with a slice of cheese and the remaining bread. Then add three slices of cheese on top of each set, bake at 200°C until it melts, remove and serve hot drizzled with the sauce."
+      ]
+    },
+    {
+      "id": 19,
+      "type":"meet",
+      "name": "Cozido à Portuguesa",
+      "cuisine": "Portuguese",
+      "image": "https://momentosdocesesalgados.com/wp-content/uploads/2021/03/2E4BB928-D83D-4227-A7F6-9FFF29968D82.jpeg",
+      "ingredients": [
+        "300 grams of beef for stewing",
+        "½ spark",
+        "1 small pig ear",
+        "300 grams of streaky bacon",
+        "300 grams of spare ribs",
+        "1 Beef Chorizo",
+        "1 black pudding",
+        "1 Blood Chorizo",
+        "1 Farinheira",
+        "1 small Portuguese cabbage",
+        "1 small savoy cabbage",
+        "2 medium turnips",
+        "2 Medium Potatoes",
+        "2 Carrots",
+        "1 measure of rice (350ml)",
+        "1 measure of the broth in which the meat was cooked",
+        "1 measure of water",
+        "2 cans of white beans 400g"
+      ],
+      "instructions": [
+        "Start by cooking the meat and sausages all in the same pan, with water, salt and pepper. And as they are cooked, reserve them.",
+        "First the farinheira and blood chorizo, then the black pudding and meat chorizo. Next, the spare ribs and the streaky bacon. Finally the chispe, the ear and the beef, which take the longest.",
+        "Then use the meat broth to prepare the remaining ingredients for the stew.",
+        "Start by heating 1 drizzle of olive oil in a pan, fry 1 mug of rice – about 350ml – and add 1 measure of broth and another of water. Season with pepper and cook for 18-20 minutes. Adjust the salt if you think the broth is thick.",
+        "In another pan, reserve broth to heat 2 small cans of white beans.",
+        "Next, take care of the vegetables! Separate the leaves from a Portuguese cabbage, wash well, remove the stem and central vein, break into pieces and add to the pan.",
+        "Then 1 Savoy cabbage: remove the toughest leaves, cut into 4 without the central stalk and add.",
+        "Finally potatoes, turnips and carrots. Peel, cut into pieces and add to the cabbage. Cover and let cook until tender.",
+        "Meanwhile, take the opportunity to cut the meats and sausages.",
+        "When everything is cooked and the meats are reheated, it's time to plate. Vegetables on the base, vegetables on the side, rice, beans, meat and sausages."
+      ]
+    },
+    {
+      "id": 20,
+      "type":"meet",
+      "name": "Tripas à moda do Porto",
+      "cuisine": "Portuguese",
+      "image": "https://feed.continente.pt/media/wcyloakn/tripasmodadoporto.jpg?anchor=center&mode=crop&width=826&height=620&rnd=132893978637470000&format=webp",
+      "ingredients": [
+        "500g veal intestines",
+        "1 onion",
+        "100g bacon",
+        "1 beef chorizo",
+        "300g boneless pork belly",
+        "500g butter beans",
+        "2 carrots",
+        "1 dessert spoon of lard",
+        "1 chopped onion",
+        "2 sliced garlic cloves",
+        "100ml white wine",
+        "1 sprig of parsley",
+        "1 bay leaf",
+        "Salt",
+        "Pepper",
+        "1 jug of water to cook the tripe",
+        "White rice to accompany"
+      ],
+      "instructions": [
+        "After the intestines have been thoroughly washed with salt and lemon, we move on to the cooking process: place 500g of veal intestines with 1 onion, 100g bacon and 1 beef chorizo ​​in a pressure cooker, water until covered and a little salt. When it boils, leave it for 30 minutes.",
+        "Cook 500g of beans, already soaked the day before, with 1 carrot cut into slices. Reserve some of the bean cooking water.",
+        "In a large pan, fry 300g of entremeada with 1 dessert spoon of lard and set aside.",
+        "In the same pan, sauté 1 chopped onion and 2 sliced ​​garlic cloves. When it is translucent, add 100ml of white wine, the meat and intestines that have already been cooked and cut into pieces.",
+        "Now add the beans and some water if necessary, and season with salt, pepper and a bay leaf. Let it be investigated a little more.",
+        "Meanwhile, chop a sprig of parsley.",
+        "Turn off the heat and sprinkle with parsley.",
+        "Serve in a tureen accompanied with white rice."
+      ]
+    },
+    {
+      "id": 21,
+      "type":"pizza",
+      "name": "Classic Margherita Pizza",
+      "cuisine": "Italian",
+      "image": "https://uk.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1660843558&width=800",
+      "ingredients": [
+        "Pizza dough",
+        "1/2 cup pizza sauce",
+        "1 1/2 cups fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "Olive oil for drizzling"
+      ],
+      "instructions": [
+        "Preheat the oven to 475°F (245°C).",
+        "Roll out the pizza dough and spread pizza sauce over it.",
+        "Top with sliced mozzarella and fresh basil leaves.",
+        "Bake in the preheated oven for 10-12 minutes or until the crust is golden and the cheese is bubbly.",
+        "Drizzle with olive oil before serving."
+      ]
+    },
+    {
+      "id": 22,
+      "type":"pizza",
+      "name": "California Pizza",
+      "cuisine": "Italian",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2015/04/California-Pizza-Recipe-7-600x900.jpg",
+      "ingredients": [
+        "Ingredients for California Pizza Dough:",
+        "3/4 cup warm water",
+        "1 Tbsp active dry yeast",
+        "1/2 Tbsp honey",
+        "1 1/2 Tbsp olive oil",
+        "2 cups plus 2 Tbsp all-purpose flour",
+        "3/4 tsp salt",
+        "Ingredients for Toppings:",
+        "Red Pizza Sauce – our best homemade red sauce",
+        "2 cups (8-10 oz) shredded Mozzarella cheese",
+        "6 slices of deli ham, chopped or cut into strips",
+        "1 medium tomato, sliced",
+        "1 small red onion, finely sliced",
+        "6-7 mushrooms, sliced",
+        "1/4 cup Black olives, sliced"
+      ],
+      "instructions": [
+        "How to Make Pizza Dough:",
+        "1. Add 3/4 cup water and 1 Tbsp of dry yeast in the bread maker and let it stand for 3-5 minutes.",
+        "2. Next, add 1/2 Tbsp of honey, 1 1/2 Tbsp olive oil, 2 cups + 2 Tbsp of flour, 3/4 tsp of salt in the bread-maker in the order they are listed and select the dough setting.",
+        "Mine takes about an hour. The dough will be sticky and it will be easy to work with once it’s oiled.",
+        "NOTE:",
+        "Using a mixer or kneading by hand method: Put warm water in a large bowl, add the yeast and let stand for a few minutes. Add honey and olive oil. Add flour, then the salt and mix until well-combined (use a dough hook on speed 2 with a mixer). The dough should be sticky. Cover with plastic wrap and leave in a warm place until doubled in volume.",
+        "Prep the Sauce while the dough is rising: Our Easy Red Sauce takes a few minutes and is a no-cooking required sauce.",
+        "1. When the dough is ready, preheat the Oven to 415˚F. Drizzle another 2 Tbsp oil onto a large baking sheet. Transfer the dough onto the oiled baking sheet and turn it a couple of times to make sure the dough is covered in oil.",
+        "2. Roll the dough out on the cookie sheet. (I use my handy 'Chef Roller' for this job. It saves a potentially messy step (transferring the dough after it’s rolled out) and you don’t have to clean your countertops afterward) and spread on the pizza sauce.",
+        "3. Spread on the cheese, ham, tomatoes, mushrooms, olives, and onions.",
+        "4. Bake at 415˚F for 15-20 minutes or until the crust is crisp and toppings are cooked."
+      ]
+    },
+    {
+      "id": 23,
+      "type":"pizza",
+      "name": "Neapolitan Pizza",
+      "cuisine": "Italian",
+      "image": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-05/sicilian-style-pizza.jpg?itok=_uC895HO",
+      "ingredients": [
+        "Ingredients for Pizza Dough:",
+        "3/4 cup warm water",
+        "1 Tbsp active dry yeast",
+        "1/2 Tbsp honey",
+        "1 1/2 Tbsp olive oil",
+        "2 cups plus 2 Tbsp all-purpose flour",
+        "3/4 tsp salt",
+        "Ingredients for Toppings:",
+        "1 tablespoon (14g) olive oil",
+        "1 1/2 cups (227g) sweet yellow onion, peeled and thinly sliced",
+        "1 cup (227g) tomato sauce",
+        "3 anchovies, finely chopped; optional",
+        "3 cups (340g) grated mozzarella cheese",
+        "King Arthur Pizza Seasoning, and/or fresh herbs, for sprinkling on top",
+        "Italian Herb Infused Dipping Oil or olive oil, for drizzling on top."
+      ],
+      "instructions": [
+        "How to Make Pizza Dough:",
+        "1. Add 3/4 cup water and 1 Tbsp of dry yeast in the bread maker and let it stand for 3-5 minutes.",
+        "2. Next, add 1/2 Tbsp of honey, 1 1/2 Tbsp olive oil, 2 cups + 2 Tbsp of flour, 3/4 tsp of salt in the bread-maker in the order they are listed and select the dough setting.",
+        "Mine takes about an hour. The dough will be sticky and it will be easy to work with once it’s oiled.",
+        "NOTE:",
+        "Using a mixer or kneading by hand method: Put warm water in a large bowl, add the yeast and let stand for a few minutes. Add honey and olive oil. Add flour, then the salt and mix until well-combined (use a dough hook on speed 2 with a mixer). The dough should be sticky. Cover with plastic wrap and leave in a warm place until doubled in volume.",
+        "To make the topping:",
+        "Pour the olive oil into a large sauté pan set over medium-low heat.",
+        "When the oil is hot, add the onions and cook them until they're soft and lightly golden, about 15 to 20 minutes.",
+        "Transfer the onions to a large bowl, add the tomato sauce, and stir until evenly combined. Set aside.",
+        "Towards the end of the dough's rising time, preheat the oven to 450°F.",
+        "Bake the untopped pizza crust for 10 to 12 minutes, until it's barely beginning to brown.",
+        "Remove the pizza from the oven, and top it with the anchovies, cheese, and tomato-onion sauce.",
+        "Return the pizza to the oven for about 15 to 20 minutes, until the edges are golden brown and the sauce is bubbling.",
+        "Remove the pizza from the oven, and let it rest for about 10 minutes before serving.",
+        "When ready to serve, sprinkle the pizza with Pizza Seasoning and fresh herbs, and drizzle with dipping oil."
+      ]
+    },
+    {
+      "id": 24,
+      "type":"pizza",
+      "name": "Sicilian Pizza",
+      "cuisine": "Italian",
+      "image": "https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-05/sicilian-style-pizza.jpg?itok=_uC895HO",
+      "ingredients": [
+        "Ingredients for Pizza Dough:",
+        "3/4 cup warm water",
+        "1 Tbsp active dry yeast",
+        "1/2 Tbsp honey",
+        "1 1/2 Tbsp olive oil",
+        "2 cups plus 2 Tbsp all-purpose flour",
+        "3/4 tsp salt",
+        "Ingredients for Toppings:",
+        "1 tablespoon (14g) olive oil",
+        "1 1/2 cups (227g) sweet yellow onion, peeled and thinly sliced",
+        "1 cup (227g) tomato sauce",
+        "3 anchovies, finely chopped; optional",
+        "3 cups (340g) grated mozzarella cheese",
+        "King Arthur Pizza Seasoning, and/or fresh herbs, for sprinkling on top",
+        "Italian Herb Infused Dipping Oil or olive oil, for drizzling on top."
+      ],
+      "instructions": [
+        "How to Make Pizza Dough:",
+        "1. Add 3/4 cup water and 1 Tbsp of dry yeast in the bread maker and let it stand for 3-5 minutes.",
+        "2. Next, add 1/2 Tbsp of honey, 1 1/2 Tbsp olive oil, 2 cups + 2 Tbsp of flour, 3/4 tsp of salt in the bread-maker in the order they are listed and select the dough setting.",
+        "Mine takes about an hour. The dough will be sticky and it will be easy to work with once it’s oiled.",
+        "NOTE:",
+        "Using a mixer or kneading by hand method: Put warm water in a large bowl, add the yeast and let stand for a few minutes. Add honey and olive oil. Add flour, then the salt and mix until well-combined (use a dough hook on speed 2 with a mixer). The dough should be sticky. Cover with plastic wrap and leave in a warm place until doubled in volume.",
+        "To make the topping:",
+        "Pour the olive oil into a large sauté pan set over medium-low heat.",
+        "When the oil is hot, add the onions and cook them until they're soft and lightly golden, about 15 to 20 minutes.",
+        "Transfer the onions to a large bowl, add the tomato sauce, and stir until evenly combined. Set aside.",
+        "Towards the end of the dough's rising time, preheat the oven to 450°F.",
+        "Bake the untopped pizza crust for 10 to 12 minutes, until it's barely beginning to brown.",
+        "Remove the pizza from the oven, and top it with the anchovies, cheese, and tomato-onion sauce.",
+        "Return the pizza to the oven for about 15 to 20 minutes, until the edges are golden brown and the sauce is bubbling.",
+        "Remove the pizza from the oven, and let it rest for about 10 minutes before serving.",
+        "When ready to serve, sprinkle the pizza with Pizza Seasoning and fresh herbs, and drizzle with dipping oil."
+      ]
+    },
+    {
+      "id": 25,
+      "type":"pizza",
+      "name": "Calzone",
+      "cuisine": "Italian",
+      "image": "https://natashaskitchen.com/wp-content/uploads/2020/09/Calzones-Recipe-4.jpg",
+      "ingredients": [
+        "2 lb pizza dough",
+        "1 cup pizza sauce",
+        "1 cup pepperoni",
+        "1/2 cup salami",
+        "2 cups shredded mozzarella",
+        "1 cup ricotta cheese",
+        "2 tbsp oil",
+        "1/2 cup parmesan cheese"
+      ],
+      "instructions": [
+        "Preheat the oven to 475 °F. Line the baking sheet with parchment paper or spray it with oil.",
+        "Divide the dough into 8 equally sized pieces. Roll each piece into a 1/4' thick circle.",
+        "Place the filling on half of each circle (pizza sauce, ricotta, pepperoni, salami, and shredded mozzarella). Make sure to leave the edges clean to allow for sealing the calzone. Fold the side over the filling and crimp the edges.",
+        "Place calzones on a baking sheet, leaving space apart. Cut a small vent on the top of each calzone.",
+        "Brush the tops with oil and sprinkle with parmesan cheese.",
+        "Bake for 15 minutes or until golden brown."
+      ]
+    },
+    {
+      "id": 26,
+      "type": "pasta",
+      "name": "Beef and Veggie Pasta with goat cheese",
+      "cuisine": "Italy",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/beef-and-veggie-pasta-666961.jpg",
+      "ingredients": [
+        "½ lb whole grain pasta",
+        "1 onion",
+        "1 garlic clove",
+        "1 lb button mushroom",
+        "2 bell pepper",
+        "2 tsp olive oil",
+        "½ lb ground beef",
+        "Salt",
+        "Pepper",
+        "Cayenne pepper",
+        "⅔ cup goat cheese",
+        "1 bunch parsley"
+      ],
+      "instructions": [
+        "1. Cook the pasta according to the package instructions in plenty of salted water until al dente. Then drain and place to the side. 2. Meanwhile peel and chop the onion and garlic. Clean and chop the mushrooms. Clean, wash and cut the peppers into strips  3. Heat 1 teaspoon of oil in a large pan and brown the meat on medium heat for 8 minutes, season with salt, pepper, cayenne pepper and remove from pan. Heat 1 tsp. oil in the same pan, and saute the onion and garlic over medium heat for 2 minutes.  4. Add the mushrooms and peppers to the pan and cook for 2 minutes or until vegetables are soft. Add meat, pasta and crumbled cheese, mix everything and cook for another 2 minutes to infuse flavor. Season the pan with salt and pepper as needed, Chop parsley and garnish the dish. "
+      ]
+    },
+    {
+      "id": 27,
+      "type": "pasta",
+      "name": "Ginger Beef and Rice Noodles",
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/ginger-beef-and-rice-noodles-675525.jpg",
+      "ingredients": [
+        "3 garlic cloves",
+        "3 tbsps canola oil",
+        "6 oz flat beef rump steaks",
+        "20 oz thin rice noodles",
+        "Salt",
+        "2 carrots",
+        "7 oz snow peas",
+        "3 tbsps honey",
+        "1 ¾ oz vegetable broth",
+        "1 tbsp dark soy sauce",
+        "3 tbsps sweet soy sauce",
+        "2 generous pinches rice starch",
+        "1 tbsp sesame seeds",
+        "1 tsp sesame oil",
+        "1 handful pea shoots",
+        "1 handful cilantro leaves",
+        "1 tsp black sesame seeds"
+      ],
+      "instructions": "1.  Peel ginger and garlic and mash with canola oil to a paste. Pat steaks dry, rub with paste and let sit for 2 hours.  2.  Meanwhile, cook rice noodles according to package directions in plenty of boiling salted water until al dente. Then drain and leave to drain. Clean and peel carrots and cut into fine strips with a vegetable slicer.  3.  Clean sugar snap peas, wash and cut diagonally into strips. Cook both in boiling water for 3 minutes, rinse with cold water and drain.  4. Bring honey, broth and both soy sauces with starch to a boil over low heat while stirring, then cool. Mix with sesame seeds and sesame oil. Wash the sprouts and coriander, shake dry and pluck off the leaves.  5.  Mix noodles with carrots, snow peas and pea shoots. Fry meat in a hot grill pan for 2-3 minutes on each side, depending on desired doneness; let rest a bit and then cut into strips.  6.  Arrange noodles on plates, drizzle with sesame dressing and arrange meat on top. Garnish with cilantro and black sesame seeds."
+    },
+    {
+      "id": 28,
+      "type": "pasta",
+      "name": "Salmon on Asian Noodles",
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/salmon-on-asian-noodles-676049.jpg",
+      "ingredients": [
+        "30 oz Chinese egg noodle (mie noodles)",
+        "1 stalk leeks",
+        "1 chili pepper",
+        "1 handful cilantro leaves",
+        "4 salmon fillets (about 4 ounces)",
+        "4 tbsps sesame oil",
+        "9 oz frozen peas (defrosted)",
+        "Salt",
+        "Pepper",
+        "1 organic lime"
+      ],
+      "instructions": [
+        "1.  Soak noodles in a bowl of hot water for 8-10 minutes until soft but still firm to the bite.  2.  Along the way, cut out 4 large squares (approx. 8 x 8 inches) of baking paper and have ready. Clean the leeks, wash, cut them into thin rings, and shake dry. 3.  Halve chili pepper lengthwise, remove seeds, wash and chop. Wash cilantro leaves and shake dry. Rinse salmon fillets and pat dry.  4. Drain noodles, drain thoroughly and mix with 2 tablespoons sesame oil. Divide noodles among the 4 pieces of baking paper. Top with leeks and peas and place 1 piece of fish on each.  5.  Sprinkle with chili, season with salt and pepper. Close the paper and place the packets on a baking tray. Bake the packets in a preheated oven at 200 °C / 400 °F for 15-20 minutes.  6.  Remove packets from oven, place on plates, open the paper, and drizzle each with 1 tsp sesame oil. Wash lime, cut into wedges, and serve. Sprinkle with cilantro leaves."
+      ]
+    },
+    {
+      "id": 29,
+      "type": "pasta",
+      "name": "Ramen Noodle Soup",
+      "cuisine": "American",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/ramen-noodle-soup-676043.jpg",
+      "ingredients": [
+        "16 oz skinless, boneless chicken breast fillets",
+        "4 tbsps sesame oil",
+        "1 oz rice wine",
+        "3 tbsps soy sauce",
+        "1 tbsp mirin (Japanese rice wine)",
+        "16 oz ramen noodles",
+        "Salt",
+        "2 eggs (medium)",
+        "1 chili pepper",
+        "1 scallion",
+        "8 oz small mushrooms (e.g., button mushrooms, oyster mushrooms)",
+        "2 garlic cloves",
+        "¾ oz ginger",
+        "26 oz chicken broth",
+        "Pepper",
+        "1 tbsp roasted sesame seeds"
+      ],
+      "instructions": [
+        "1. Rinse chicken and pat dry. Heat 2 tablespoons of oil in a saucepan. Sauté chicken breast fillets in it all around over medium heat for 3 minutes. Deglaze with rice wine, stir in 7 ounces of water, 2 tablespoons soy sauce, and mirin, and cook chicken over low heat for 8 minutes until done.  2.  Meanwhile, pour boiling salted water over noodles and let stand for 5 minutes. Then drain in a colander and let drain.  3.  Boil eggs in boiling water for about 6 minutes until soft, then rinse and peel. Halve chili pepper lengthwise, remove seeds, wash and chop. Clean, wash and finely dice the spring onion. Clean mushrooms and halve or slice depending on size. Peel garlic and ginger and cut into fine slices. 4. In a frying pan, heat the remaining oil. Sauté mushrooms in it for 3 minutes over medium heat. Add garlic and ginger and fry briefly.  5. Remove chicken breast fillets from the pot, fill the liquid with the broth to about 34 ounces and bring to a boil. Mix in mushrooms, chili, and spring onion and let stand in the soup for 5 minutes.  6.  Season soup with remaining soy sauce, salt and pepper. Slice chicken, place in soup bowls with noodles and pour hot soup over. Cut eggs in half, arrange 1 egg half on top of each soup and sprinkle everything with sesame seeds."
+      ]
+    },
+    {
+      "id": 30,
+      "type": "pasta",
+      "name": "Spaghetti alla Carbonara",
+      "cuisine": "Italian",
+      "image": "https://tarasmulticulturaltable.com/wp-content/uploads/2022/07/Classic-Spaghetti-Carbonara-4-of-4.jpg",
+      "ingredients": [
+        "350 g (12 oz) of spaghetti",
+        "200 g (7 oz) of guanciale",
+        "4 whole medium eggs (1 egg per serving)",
+        "100 g (1 cup + 1 tablespoon) of grated Pecorino Romano. We recommend this authentic Italian Pecorino Romano DOP",
+        "Ground black pepper"
+      ],
+      "instructions": [
+        "Step 1) – First, boil the water for the pasta while you prepare the carbonara sauce. Remember: 1 liter (4 cups) of water for every 100 g (3.50 oz) of pasta and 10 g (~1/2 tablespoon) of coarse salt per liter (4 cups) of water.",
+        "Cut the guanciale into small pieces (cubes, slices… as you prefer) then cook in a skillet over medium heat for about 2 to 3 minutes. Stir occasionally so that it cooks evenly. The more the guanciale cooks, the more its fat will melt and its meat will become crispy. The level of cooking is up to you, depending on your taste. Some people like their guanciale well-cooked and others prefer it soft.",
+        "No need for oil: guanciale is already fatty, oily and fabulous on its own. If you want, you can add a tablespoon of cooking water and emulsify. This will create a great oily sauce to season the spaghetti nicely. When it’s ready, turn off the heat, cover with a lid and set aside.",
+        "Step 2) – Now prepare the pecorino cream. So, in a bowl put the eggs and pecorino Romano cheese. Use the whole egg, not only the egg yolk.",
+        "Pecorino Romano, the only cheese that is recommended for making carbonara, is a very salty and flavorful Italian cheese so there is no need to add salt.",
+        "Step 3) – Add some freshly ground black pepper. Then, mix quickly with a fork – or a hand whisk – until you have a creamy sauce.",
+        "Step 4) – This egg and pecorino cheese sauce should be quite thick. Set it aside for the moment.",
+        "The water should now be boiling so add the salt and cook the spaghetti.",
+        "If you chose a fairly large pot, the spaghetti should fit comfortably without breaking them. Whole, unbroken spaghetti is best, so you can more easily roll them around the tines of your fork without the help of a spoon. #eatlikeanitalian",
+        "The best way to cook spaghetti without breaking it’s to hold them in a bunch vertically and dip in the salted water.",
+        "Step 5) – Now let go and they will fall in all directions. As they soften, use a fork to let them sink in, then stir.",
+        "Cook the spaghetti al dente, following the cooking time found on the pasta package.",
+        "Step 6) – Using a spoon for spaghetti, drain the pasta when ready. Then place them in the skillet, over high heat, to season well with the guanciale.",
+        "Season and Serve",
+        "At this step, we have reached the crucial moment of spaghetti carbonara. Not to put tension on it, but this is the fleeting moment in which you can make an immortal dish or one that will be a real failure. So now you have to be quick, ready and ruthless.",
+        "Here’s how to do it:",
+        "Step 7) – When the spaghetti and guanciale sizzle in the pan, TURN OFF THE HEAT, otherwise the eggs will overcook and you’ll end up with scrambled eggs and pasta!",
+        "Now quickly add the eggs and pecorino cream to the hot pasta and stir. The pan is not too hot, this way the eggs will cook without lumps.",
+        "Pay attention to the consistency, which should be creamy, but not runny.",
+        "If you notice that your carbonara is too runny, add some grated pecorino cheese.",
+        "On the other hand, if you see that it’s too sticky and dense, add 1 or 2 tablespoons of cooking water.",
+        "If you used a spoon to drain the spaghetti, the reserving pasta water may come in handy in this step.",
+        "Step 8) – Authentic spaghetti carbonara is ready. So, with the help of a ladle and a fork, create a pasta nest and place it on a plate.",
+        "Step 9) – Add the guanciale (what’s left in the pan), freshly ground black pepper and grated pecorino romano to taste. Serve and enjoy!"
+      ]
+    }
+  ]
+}
