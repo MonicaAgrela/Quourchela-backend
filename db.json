@@ -26,7 +26,12 @@
         "Meanwhile, cook spaghetti according to package instructions.",
         "Serve the Bolognese sauce over cooked spaghetti and top with Parmesan cheese."
       ],
-      "description": "Classic Italian pasta dish featuring ground beef cooked with onions, garlic, tomatoes, and herbs, served over spaghetti and topped with Parmesan cheese."
+      "description": "Classic Italian pasta dish featuring ground beef cooked with onions, garlic, tomatoes, and herbs, served over spaghetti and topped with Parmesan cheese.",
+      "restaurants": [
+        "Trattoria della Santa;",
+        "Osteria dell'Orsa;",
+        "Ristorante Bolognese."
+      ]
     },
     {
       "id": 2,
@@ -57,7 +62,8 @@
         "Fry the potatoes in thick slices and place them around the cod.",
         "Cover with onion and serve with a mixed salad."
       ],
-      "description": "Portuguese dish with soaked cod fillets fried in olive oil, served with a flavorful mix of onions, garlic, peppers, and tomatoes. Accompanied by French fries."
+      "description": "Portuguese dish with soaked cod fillets fried in olive oil, served with a flavorful mix of onions, garlic, peppers, and tomatoes. Accompanied by French fries.",
+      "restaurants": ["São Frutuoso;", "Velhos Tempos;", "Restaurante O Jacó."]
     },
     {
       "id": 3,
@@ -93,7 +99,12 @@
         " Pour the olive oil and garlic over the octopus and potatoes.",
         " Place in the oven for 10 minutes, at 250ºC, grill mode, to toast well."
       ],
-      "description": "Portuguese octopus dish roasted in the oven with olive oil, onions, bay leaves, and served with baked potatoes. Finished with a garlic-infused olive oil for added flavor."
+      "description": "Portuguese octopus dish roasted in the oven with olive oil, onions, bay leaves, and served with baked potatoes. Finished with a garlic-infused olive oil for added flavor.",
+      "restaurants": [
+        "Cozinha da Amélia;",
+        "O Castiço da Sé;",
+        "O da Maria Odete."
+      ]
     },
     {
       "id": 4,
@@ -122,7 +133,8 @@
         "Allow the pancake to cook for 5 minutes, until the bottom is golden brown and the edges are somewhat firm. Place a large plate over the pancake in the pan. Keep a firm grip and then flip the pan over and allow the pancake to lay on the plate. Slide the pancake back into the pan and allow to cook for another 3 minutes, until golden brown and the egg and batter is set.",
         "Place the pancake on a clean plate and cut into 2” squares. Enjoy with soy sauce for dipping."
       ],
-      "description": "Asian-inspired pancakes made with zucchini ribbons, green onions, and shrimp. The pancake is crispy on the outside and tender on the inside, served with soy sauce."
+      "description": "Asian-inspired pancakes made with zucchini ribbons, green onions, and shrimp. The pancake is crispy on the outside and tender on the inside, served with soy sauce.",
+      "restaurants": ["The mill;", "Zenith;", "Tartine."]
     },
     {
       "id": 5,
@@ -136,7 +148,8 @@
       "instructions": [
         "1. In a bowl, stir the flour into 6.6 ounces of the milk and 1 pinch of salt until smooth. Mix in the eggs, cover and let stand 15 minutes. 2.  Heat the canola oil in a skillet over medium-low heat. Ladle 1/4 of the batter into the pan, swirling the pan to coat the bottom with batter and cook until golden brown on both sides. Repeat with the remaining batter to make 4 crepes. Remove and drain on paper towels.  3.  Rinse the herbs, shake dry and set a little aside for garnish and chop the rest.   4. In a bowl, mix together the cream cheese, yogurt, the remaining milk, 1 dash of lemon juice and horseradish and season with pepper. Stir in the chives and parsley. 5.  Top the crepes with the salmon and spread the cream over. Roll up and refrigerate at least 30 minutes.  6. Slice the crêpes, secure with toothpicks and if desired, garnish with parsley."
       ],
-      "description": "German dish featuring crepes filled with a mixture of cream cheese, Greek yogurt, and smoked salmon. Rolled and sliced, then garnished with herbs."
+      "description": "German dish featuring crepes filled with a mixture of cream cheese, Greek yogurt, and smoked salmon. Rolled and sliced, then garnished with herbs.",
+      "restaurants": ["Crêpstation;", "La Bigoudène;", "Crêplala."]
     },
     {
       "id": 6,
@@ -162,7 +175,12 @@
         "Heat the barbecue for direct cooking. Rub the oil over the sardines and season well. Thread each fish from head to tail onto a skewer, making a few slashes with a knife to each if you like.",
         "Cook the sardines over the glowing coals for 2-3 mins each side until cooked through and nicely charred. Drizzle over the chermoula sauce to serve."
       ],
-      "description": "Moroccan-style sardines grilled and flavored with a chermoula sauce made from coriander, parsley, garlic, preserved lemon, and various spices."
+      "description": "Moroccan-style sardines grilled and flavored with a chermoula sauce made from coriander, parsley, garlic, preserved lemon, and various spices.",
+      "restaurants": [
+        "Blue Mogador;",
+        "Restaurant Zaytouna;",
+        "La Rose du Sud."
+      ]
     },
     {
       "id": 7,
@@ -176,7 +194,12 @@
       "instructions": [
         "1. Clean and wash the pointed and green cabbage, pluck the green from the ribs of the kale. Cut the pointed cabbage and kale into strips. Peel and chop the onion and garlic. 2. Bring rice to a boil with twice the amount of salted water, cover and cook over low heat for 25-30 minutes. Remove from heat, loosen and let swell for 5 minutes. 3. Meanwhile, in a deep frying pan, heat 2 tablespoons of oil. Add onion and garlic and sauté over medium heat for 3 minutes until translucent. Add pointed cabbage and kale and sauté for 3-5 minutes until golden brown. Deglaze with a little water, add tomatoes and let reduce for about 10 minutes; then season with paprika, harissa, salt and pepper. 4. Meanwhile, mix pumpkin puree with remaining oil, 1/2 tsp cornstarch, 1-2 tbsp water and 1 pinch salt. Mix tofu with remaining starch and salt. Form 4 wells in pan vegetables, place tofu cream in them and center pumpkin cream on top. Cover pan and let shakshuka set over low heat for about 10 minutes. Wash marjoram, shake dry, pluck into small pieces. Sprinkle vegan shakshuka with marjoram, sumac and sesame seeds and serve with rice."
       ],
-      "description": "Italian vegan version of Shakshuka, featuring a mix of pointed cabbage, kale, chunky tomatoes, and pumpkin puree. Served with silken tofu and rice."
+      "description": "Italian vegan version of Shakshuka, featuring a mix of pointed cabbage, kale, chunky tomatoes, and pumpkin puree. Served with silken tofu and rice.",
+      "restaurants": [
+        "Veganità Trattoria;",
+        "GreenGusto;",
+        "Plant-Based Palate."
+      ]
     },
     {
       "id": 8,
@@ -202,7 +225,8 @@
         "Add mixed vegetables and coconut milk. Simmer until vegetables are tender.",
         "Serve over cooked rice."
       ],
-      "description": "Indian vegetable curry made with mixed vegetables, onions, tomatoes, and a blend of aromatic spices. Finished with coconut milk and served over rice."
+      "description": "Indian vegetable curry made with mixed vegetables, onions, tomatoes, and a blend of aromatic spices. Finished with coconut milk and served over rice.",
+      "restaurants": ["Spice Haven;", "Saffron Flavors;", "Curry Paradise."]
     },
     {
       "id": 9,
@@ -216,7 +240,12 @@
       "instructions": [
         "1.  Peel sweet potatoes, wash and cut into finger-thick sticks. Peel garlic cloves and cut into slices.  2.  Halve chili peppers lengthwise, remove seeds, wash and chop or cut into rings. Cut feta cheese into cubes and mix with sweet potatoes, garlic, chili, olive oil, and honey. Spread on a baking tray lined with baking paper and cook in a preheated oven at 180 °C / 350 ˚F for about 20-25 minutes. 3.  Meanwhile, toast pumpkin and sunflower seeds and sesame seeds in a pan without fat over medium heat. Remove sweet potatoes from oven, arrange on plates and sprinkle with sea salt, seeds and sesame seeds."
       ],
-      "description": "French dish of sweet potato sticks mixed with garlic, chili, and feta cheese. Baked and garnished with toasted pumpkin seeds, sunflower seeds, and sesame seeds."
+      "description": "French dish of sweet potato sticks mixed with garlic, chili, and feta cheese. Baked and garnished with toasted pumpkin seeds, sunflower seeds, and sesame seeds.",
+      "restaurants": [
+        "Le Délice Français;",
+        "La Cuisine Provençale;",
+        "Savoir-Faire Brasserie."
+      ]
     },
     {
       "id": 10,
@@ -230,7 +259,12 @@
       "instructions": [
         "1.  Cut the pumpkin flesh into pieces. Cook in a frying pan (preferably coated) in hot oil for about 5 minutes until lightly brown. Season with salt and pour in a little water. Cover and cook about 5 minutes, until tender. Remove the lid again and let the liquid completely evaporate. Clean the mushrooms and cut into bite-size pieces. Peel garlic and cut into slices. Put the mushrooms and garlic in with the pumpkin and cook until golden brown, about 5 minutes. Season with salt and place in a bowl.  2. Serve garnished with parsley and green pepper."
       ],
-      "description": "Mexican dish featuring pumpkin cooked with canola oil, porcini mushrooms, and garlic. Garnished with parsley and green peppers."
+      "description": "Mexican dish featuring pumpkin cooked with canola oil, porcini mushrooms, and garlic. Garnished with parsley and green peppers.",
+      "restaurants": [
+        "La Calabaza Mágica;",
+        "Sabor de México;",
+        "Cocina Auténtica Mexicana."
+      ]
     },
     {
       "id": 11,
@@ -264,7 +298,8 @@
         "Prepare all ingredients. Heat 2 -3 tbsp of oil in a pan. Add mustard seeds, cumin seeds and curry leaves to hot oil. Let them start to pop then stir in onions, fresh or dried chillies, turmeric powder and garam masala (if using). Sauté until aromatic.",
         "Stir in cabbage and julienned carrot. Add 4 tbsp of water. Stir few times to combine. Next, Season, taste and adjust seasonings accordingly. Mix well. Cook over medium heat until cabbage is cooked to your desired doneness but preferably not over cooked. Add pinch of Hing or Asafoetida powder. Stir again then remove from the heat and serve with roti, naan/flat bread or rice. Check out other cabbage recipes."
       ],
-      "description": "A vibrant Indian dish featuring finely shredded round cabbage, mustard seeds, curry leaves, and a blend of aromatic spices. Perfectly seasoned, this stir fry is a delightful accompaniment to roti, naan, or rice."
+      "description": "A vibrant Indian dish featuring finely shredded round cabbage, mustard seeds, curry leaves, and a blend of aromatic spices. Perfectly seasoned, this stir fry is a delightful accompaniment to roti, naan, or rice.",
+      "restaurants": ["Spice Junction;", "Flavors of India;", "Curry."]
     },
     {
       "id": 12,
@@ -289,7 +324,12 @@
         "In a large bowl, combine chopped romaine lettuce, croutons, Parmesan cheese, and sliced chicken.",
         "Drizzle Caesar dressing over the salad and toss to combine."
       ],
-      "description": "A classic American salad with grilled boneless, skinless chicken breasts, crisp romaine lettuce, croutons, and Parmesan cheese. Tossed together with Caesar dressing, it's a refreshing and satisfying meal."
+      "description": "A classic American salad with grilled boneless, skinless chicken breasts, crisp romaine lettuce, croutons, and Parmesan cheese. Tossed together with Caesar dressing, it's a refreshing and satisfying meal.",
+      "restaurants": [
+        "Grill & Greens;",
+        "Caesar's Delight Diner;",
+        "The Chicken Coop."
+      ]
     },
     {
       "id": 13,
@@ -317,7 +357,12 @@
         "Pour the sauce over the chicken and vegetables, stir until well coated.",
         "Serve over cooked rice."
       ],
-      "description": "An Asian-inspired stir-fry with sliced chicken breasts, broccoli, bell peppers, and julienned carrots. The dish is elevated with a flavorful sauce made of soy sauce, oyster sauce, sesame oil, and aromatic spices, served over rice."
+      "description": "An Asian-inspired stir-fry with sliced chicken breasts, broccoli, bell peppers, and julienned carrots. The dish is elevated with a flavorful sauce made of soy sauce, oyster sauce, sesame oil, and aromatic spices, served over rice.",
+      "restaurants": [
+        "Wok Master;",
+        "Oriental Flavors Express;",
+        "Soy & Sizzle Bistro."
+      ]
     },
     {
       "id": 14,
@@ -345,12 +390,13 @@
         "Pour the sauce over the chicken and vegetables, add pineapple chunks, and stir until the sauce thickens.",
         "Serve over cooked rice."
       ],
-      "description": "A Chinese favorite featuring tender pieces of sweet and sour chicken, bell peppers, onions, and pineapple chunks. The dish is coated in a flavorful sweet and tangy sauce, served over a bed of steamed rice."
+      "description": "A Chinese favorite featuring tender pieces of sweet and sour chicken, bell peppers, onions, and pineapple chunks. The dish is coated in a flavorful sweet and tangy sauce, served over a bed of steamed rice.",
+      "restaurants": ["Dragon Palace;", "Golden Wok;", "Peking Garden."]
     },
     {
       "id": 15,
       "type": "meat",
-      "name": "hamburguer",
+      "name": "Hamburguer",
       "cuisine": "German",
       "image": "https://pubimg.band.uol.com.br/files/cb1fe227a30b77daa9cb.webp",
       "ingredients": [
@@ -374,7 +420,12 @@
         "Meanwhile, combine ground beef, onion, cheese, egg, onion soup mix, minced garlic, garlic powder, soy sauce, Worcestershire sauce, parsley, basil, oregano, rosemary, salt, and pepper in a large bowl. Use your hands to form the mixture into 4 patties.",
         "Cook patties on the preheated grill until no longer pink in the center and the juices run clear, about 4 to 5 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
       ],
-      "description": "A German-style hamburger made with lean ground beef, shredded cheese, and a medley of herbs and spices. Grilled to perfection, these patties are great for a hearty and satisfying meal."
+      "description": "A German-style hamburger made with lean ground beef, shredded cheese, and a medley of herbs and spices. Grilled to perfection, these patties are great for a hearty and satisfying meal.",
+      "restaurants": [
+        "Burgermeister;",
+        "Sausage & Patty Haus;",
+        "The Bavarian Grill."
+      ]
     },
     {
       "id": 16,
@@ -435,7 +486,8 @@
         "Open it only at the time of serving, as it gives a nice smokey flavor to the rice. To serve, spread rice onto a large serving tray and place a piece of baked chicken on the top.",
         "Serve Arabian Chicken Mandi with Raw Mango raita and Pickled onions for a delicious weeknight dinner."
       ],
-      "description": "An Arabian delicacy, Chicken Mandi features spiced chicken with aromatic Arabian spices, baked to perfection. Served over fragrant basmati rice, this dish is complemented by a smoky flavor and delightful spices."
+      "description": "An Arabian delicacy, Chicken Mandi features spiced chicken with aromatic Arabian spices, baked to perfection. Served over fragrant basmati rice, this dish is complemented by a smoky flavor and delightful spices.",
+      "restaurants": ["Mandi Magic;", "Sultan's Delight;", "Aromatic Oasis."]
     },
     {
       "id": 17,
@@ -466,7 +518,12 @@
         "Simmer uncovered 20 minutes – Remove the lid then simmer uncovered for 20 minutes, or until the internal temperature of the chicken is 70°C/158°F (which may be slightly less than 20 minutes). Don’t worry about going above this temperature as bone-in chicken thighs are a very juicy cut so they’re very forgiving.",
         "Serving! Tagine is traditionally served over couscous. I’ve popped a little more information below with some couscous flavouring options as well as some alternatives for other carb-y partners."
       ],
-      "description": "A Moroccan specialty, Chicken Tajine is a slow-cooked dish with bone-in, skin-on chicken thighs, aromatic spices, dried apricots, chickpeas, and preserved lemon. Best enjoyed over couscous for a truly authentic experience."
+      "description": "A Moroccan specialty, Chicken Tajine is a slow-cooked dish with bone-in, skin-on chicken thighs, aromatic spices, dried apricots, chickpeas, and preserved lemon. Best enjoyed over couscous for a truly authentic experience.",
+      "restaurants": [
+        "Spice of Marrakech;",
+        "Tajine Treasures;",
+        "Saffron and Cinnamon Delight."
+      ]
     },
     {
       "id": 18,
@@ -500,7 +557,8 @@
         "Cut the sausages in half, then in half lengthwise again and season them with salt and pepper. Also cut the sausages in the same way. Season the steaks equally with salt and pepper. Grill steaks, sausages and sausages to taste.",
         "Lightly toast the bread slices and distribute two slices on two plates. Cover with a slice of ham, then add the steak and add another slice of bread. Then add the sausage and sausage, cover with a slice of cheese and the remaining bread. Then add three slices of cheese on top of each set, bake at 200°C until it melts, remove and serve hot drizzled with the sauce."
       ],
-      "description": "A Portuguese delight, Francesinha is a hearty sandwich layered with beef steaks, fresh sausage, ham, and cheese. Drizzled with a flavorful sauce made from beer, tomato paste, brandy, and port wine, it's a satisfying and indulgent treat."
+      "description": "A Portuguese delight, Francesinha is a hearty sandwich layered with beef steaks, fresh sausage, ham, and cheese. Drizzled with a flavorful sauce made from beer, tomato paste, brandy, and port wine, it's a satisfying and indulgent treat.",
+      "restaurants": ["Brasão;", "Santiago;", "Lado B."]
     },
     {
       "id": 19,
@@ -540,7 +598,8 @@
         "Meanwhile, take the opportunity to cut the meats and sausages.",
         "When everything is cooked and the meats are reheated, it's time to plate. Vegetables on the base, vegetables on the side, rice, beans, meat and sausages."
       ],
-      "description": "Cozido à Portuguesa is a Portuguese stew featuring a variety of meats, sausages, and vegetables. The meats are cooked separately, and the dish is served with rice, white beans, and a flavorful broth."
+      "description": "Cozido à Portuguesa is a Portuguese stew featuring a variety of meats, sausages, and vegetables. The meats are cooked separately, and the dish is served with rice, white beans, and a flavorful broth.",
+      "restaurants": ["Restaurante Antunes;", "O Ernesto;", "XXL by Olivier."]
     },
     {
       "id": 20,
@@ -577,7 +636,12 @@
         "Turn off the heat and sprinkle with parsley.",
         "Serve in a tureen accompanied with white rice."
       ],
-      "description": "A traditional dish from Porto, Tripas à Moda do Porto features veal intestines, bacon, chorizo, pork belly, and butter beans. Cooked with white wine, garlic, and parsley, it's served with white rice for a hearty and flavorful experience."
+      "description": "A traditional dish from Porto, Tripas à Moda do Porto features veal intestines, bacon, chorizo, pork belly, and butter beans. Cooked with white wine, garlic, and parsley, it's served with white rice for a hearty and flavorful experience.",
+      "restaurants": [
+        "Adega de São Nicolau;",
+        "Restaurante Líder;",
+        "Restaurante Pombeiro."
+      ]
     },
     {
       "id": 21,
@@ -599,7 +663,12 @@
         "Bake in the preheated oven for 10-12 minutes or until the crust is golden and the cheese is bubbly.",
         "Drizzle with olive oil before serving."
       ],
-      "description": "A timeless Italian favorite, the Classic Margherita Pizza features a thin crust topped with vibrant tomato sauce, fresh mozzarella slices, and aromatic basil leaves. Baked to perfection, it's finished with a drizzle of olive oil."
+      "description": "A timeless Italian favorite, the Classic Margherita Pizza features a thin crust topped with vibrant tomato sauce, fresh mozzarella slices, and aromatic basil leaves. Baked to perfection, it's finished with a drizzle of olive oil.",
+      "restaurants": [
+        "Margherita Masterpiece;",
+        "Italiano Tradizionale;",
+        "Pizza Perfecto."
+      ]
     },
     {
       "id": 22,
@@ -637,7 +706,12 @@
         "3. Spread on the cheese, ham, tomatoes, mushrooms, olives, and onions.",
         "4. Bake at 415˚F for 15-20 minutes or until the crust is crisp and toppings are cooked."
       ],
-      "description": "A Californian twist on traditional pizza, this variant features a homemade crust topped with red pizza sauce, shredded mozzarella, deli ham, fresh tomatoes, red onions, mushrooms, and black olives. Baked until golden, it's a flavorful and colorful delight."
+      "description": "A Californian twist on traditional pizza, this variant features a homemade crust topped with red pizza sauce, shredded mozzarella, deli ham, fresh tomatoes, red onions, mushrooms, and black olives. Baked until golden, it's a flavorful and colorful delight.",
+      "restaurants": [
+        "Pizzaiolo's Delight;",
+        "Calitalia Pizzeria;",
+        "Golden State Pizzeria."
+      ]
     },
     {
       "id": 23,
@@ -680,7 +754,12 @@
         "Remove the pizza from the oven, and let it rest for about 10 minutes before serving.",
         "When ready to serve, sprinkle the pizza with Pizza Seasoning and fresh herbs, and drizzle with dipping oil."
       ],
-      "description": "True to its Neapolitan roots, this pizza showcases a thin and chewy crust topped with a savory combination of sweet yellow onions, tomato sauce, anchovies (optional), and generous amounts of grated mozzarella. Finished with pizza seasoning and fresh herbs, it's a classic."
+      "description": "True to its Neapolitan roots, this pizza showcases a thin and chewy crust topped with a savory combination of sweet yellow onions, tomato sauce, anchovies (optional), and generous amounts of grated mozzarella. Finished with pizza seasoning and fresh herbs, it's a classic.",
+      "restaurants": [
+        "Napoli Express;",
+        "La Vera Pizzeria;",
+        "Bella Napoli Trattoria."
+      ]
     },
     {
       "id": 24,
@@ -723,7 +802,12 @@
         "Remove the pizza from the oven, and let it rest for about 10 minutes before serving.",
         "When ready to serve, sprinkle the pizza with Pizza Seasoning and fresh herbs, and drizzle with dipping oil."
       ],
-      "description": "Inspired by Sicilian flavors, this pizza boasts a thick, airy crust topped with a rich tomato-onion sauce, anchovies (optional), and ample grated mozzarella. Seasoned with pizza seasoning and fresh herbs, it's a hearty and satisfying dish."
+      "description": "Inspired by Sicilian flavors, this pizza boasts a thick, airy crust topped with a rich tomato-onion sauce, anchovies (optional), and ample grated mozzarella. Seasoned with pizza seasoning and fresh herbs, it's a hearty and satisfying dish.",
+      "restaurants": [
+        "Sicilian Delights Pizzeria;",
+        "Nonna's Sicilian Kitchen;",
+        "Trinacria Pizzeria."
+      ]
     },
     {
       "id": 25,
@@ -749,7 +833,12 @@
         "Brush the tops with oil and sprinkle with parmesan cheese.",
         "Bake for 15 minutes or until golden brown."
       ],
-      "description": "A folded Italian classic, the Calzone is made with pizza dough and filled with a savory combination of pizza sauce, pepperoni, salami, shredded mozzarella, ricotta cheese, and parmesan. Baked until golden brown, it's a portable pizza delight."
+      "description": "A folded Italian classic, the Calzone is made with pizza dough and filled with a savory combination of pizza sauce, pepperoni, salami, shredded mozzarella, ricotta cheese, and parmesan. Baked until golden brown, it's a portable pizza delight.",
+      "restaurants": [
+        "Calzone Haven;",
+        "The Folded Pie Co.;",
+        "Mama Mia's Calzone Corner."
+      ]
     },
     {
       "id": 26,
@@ -774,7 +863,12 @@
       "instructions": [
         "1. Cook the pasta according to the package instructions in plenty of salted water until al dente. Then drain and place to the side. 2. Meanwhile peel and chop the onion and garlic. Clean and chop the mushrooms. Clean, wash and cut the peppers into strips  3. Heat 1 teaspoon of oil in a large pan and brown the meat on medium heat for 8 minutes, season with salt, pepper, cayenne pepper and remove from pan. Heat 1 tsp. oil in the same pan, and saute the onion and garlic over medium heat for 2 minutes.  4. Add the mushrooms and peppers to the pan and cook for 2 minutes or until vegetables are soft. Add meat, pasta and crumbled cheese, mix everything and cook for another 2 minutes to infuse flavor. Season the pan with salt and pepper as needed, Chop parsley and garnish the dish. "
       ],
-      "description": "A wholesome Italian pasta dish featuring whole grain pasta tossed with a flavorful medley of ingredients including ground beef, mushrooms, bell peppers, and goat cheese. Garnished with fresh parsley, it's a balanced and satisfying meal."
+      "description": "A wholesome Italian pasta dish featuring whole grain pasta tossed with a flavorful medley of ingredients including ground beef, mushrooms, bell peppers, and goat cheese. Garnished with fresh parsley, it's a balanced and satisfying meal.",
+      "restaurants": [
+        "La Trattoria Rustica;",
+        "Pasta Passion Bistro;",
+        "Goat & Greens Italian Kitchen."
+      ]
     },
     {
       "id": 27,
@@ -802,7 +896,12 @@
         "1 tsp black sesame seeds"
       ],
       "instructions": "1.  Peel ginger and garlic and mash with canola oil to a paste. Pat steaks dry, rub with paste and let sit for 2 hours.  2.  Meanwhile, cook rice noodles according to package directions in plenty of boiling salted water until al dente. Then drain and leave to drain. Clean and peel carrots and cut into fine strips with a vegetable slicer.  3.  Clean sugar snap peas, wash and cut diagonally into strips. Cook both in boiling water for 3 minutes, rinse with cold water and drain.  4. Bring honey, broth and both soy sauces with starch to a boil over low heat while stirring, then cool. Mix with sesame seeds and sesame oil. Wash the sprouts and coriander, shake dry and pluck off the leaves.  5.  Mix noodles with carrots, snow peas and pea shoots. Fry meat in a hot grill pan for 2-3 minutes on each side, depending on desired doneness; let rest a bit and then cut into strips.  6.  Arrange noodles on plates, drizzle with sesame dressing and arrange meat on top. Garnish with cilantro and black sesame seeds.",
-      "description": "An Asian-inspired delight, this dish combines flat beef rump steaks with thin rice noodles, carrots, snow peas, and a ginger-infused sauce. Finished with sesame seeds, sesame oil, pea shoots, and cilantro, it's a harmonious blend of flavors."
+      "description": "An Asian-inspired delight, this dish combines flat beef rump steaks with thin rice noodles, carrots, snow peas, and a ginger-infused sauce. Finished with sesame seeds, sesame oil, pea shoots, and cilantro, it's a harmonious blend of flavors.",
+      "restaurants": [
+        "Wok Master Express;",
+        "Noodle Haven;",
+        "Oriental Spice Kitchen."
+      ]
     },
     {
       "id": 28,
@@ -825,7 +924,12 @@
       "instructions": [
         "1.  Soak noodles in a bowl of hot water for 8-10 minutes until soft but still firm to the bite.  2.  Along the way, cut out 4 large squares (approx. 8 x 8 inches) of baking paper and have ready. Clean the leeks, wash, cut them into thin rings, and shake dry. 3.  Halve chili pepper lengthwise, remove seeds, wash and chop. Wash cilantro leaves and shake dry. Rinse salmon fillets and pat dry.  4. Drain noodles, drain thoroughly and mix with 2 tablespoons sesame oil. Divide noodles among the 4 pieces of baking paper. Top with leeks and peas and place 1 piece of fish on each.  5.  Sprinkle with chili, season with salt and pepper. Close the paper and place the packets on a baking tray. Bake the packets in a preheated oven at 200 °C / 400 °F for 15-20 minutes.  6.  Remove packets from oven, place on plates, open the paper, and drizzle each with 1 tsp sesame oil. Wash lime, cut into wedges, and serve. Sprinkle with cilantro leaves."
       ],
-      "description": "Featuring Chinese egg noodles, leeks, chili pepper, and cilantro, this Asian-inspired dish is topped with oven-baked salmon fillets and drizzled with sesame oil. A zesty and flavorful meal with a hint of lime."
+      "description": "Featuring Chinese egg noodles, leeks, chili pepper, and cilantro, this Asian-inspired dish is topped with oven-baked salmon fillets and drizzled with sesame oil. A zesty and flavorful meal with a hint of lime.",
+      "restaurants": [
+        "Sushi & Noodle Delight;",
+        "Salmon Sensation Bistro;",
+        "Asian Fusion Haven."
+      ]
     },
     {
       "id": 29,
@@ -854,7 +958,8 @@
       "instructions": [
         "1. Rinse chicken and pat dry. Heat 2 tablespoons of oil in a saucepan. Sauté chicken breast fillets in it all around over medium heat for 3 minutes. Deglaze with rice wine, stir in 7 ounces of water, 2 tablespoons soy sauce, and mirin, and cook chicken over low heat for 8 minutes until done.  2.  Meanwhile, pour boiling salted water over noodles and let stand for 5 minutes. Then drain in a colander and let drain.  3.  Boil eggs in boiling water for about 6 minutes until soft, then rinse and peel. Halve chili pepper lengthwise, remove seeds, wash and chop. Clean, wash and finely dice the spring onion. Clean mushrooms and halve or slice depending on size. Peel garlic and ginger and cut into fine slices. 4. In a frying pan, heat the remaining oil. Sauté mushrooms in it for 3 minutes over medium heat. Add garlic and ginger and fry briefly.  5. Remove chicken breast fillets from the pot, fill the liquid with the broth to about 34 ounces and bring to a boil. Mix in mushrooms, chili, and spring onion and let stand in the soup for 5 minutes.  6.  Season soup with remaining soy sauce, salt and pepper. Slice chicken, place in soup bowls with noodles and pour hot soup over. Cut eggs in half, arrange 1 egg half on top of each soup and sprinkle everything with sesame seeds."
       ],
-      "description": "An American take on traditional ramen, this noodle soup features skinless, boneless chicken breast fillets, ramen noodles, eggs, mushrooms, garlic, ginger, and a savory broth. Garnished with scallions and sesame seeds, it's a comforting bowl of goodness."
+      "description": "An American take on traditional ramen, this noodle soup features skinless, boneless chicken breast fillets, ramen noodles, eggs, mushrooms, garlic, ginger, and a savory broth. Garnished with scallions and sesame seeds, it's a comforting bowl of goodness.",
+      "restaurants": ["Ramen House;", "Tokyo Noodle Bar;", "Noodle World."]
     },
     {
       "id": 30,
@@ -895,7 +1000,12 @@
         "Step 8) – Authentic spaghetti carbonara is ready. So, with the help of a ladle and a fork, create a pasta nest and place it on a plate.",
         "Step 9) – Add the guanciale (what’s left in the pan), freshly ground black pepper and grated pecorino romano to taste. Serve and enjoy!"
       ],
-      "description": "A classic Italian pasta dish, Spaghetti alla Carbonara is made with guanciale, spaghetti, eggs, Pecorino Romano cheese, and black pepper. The guanciale provides a rich, savory flavor, and the dish is finished with a creamy egg and cheese sauce."
+      "description": "A classic Italian pasta dish, Spaghetti alla Carbonara is made with guanciale, spaghetti, eggs, Pecorino Romano cheese, and black pepper. The guanciale provides a rich, savory flavor, and the dish is finished with a creamy egg and cheese sauce.",
+      "restaurants": [
+        "Nonna's Trattoria;",
+        "Roman Elegance Pasta House;",
+        "Carbonara Corner."
+      ]
     }
   ]
 }
